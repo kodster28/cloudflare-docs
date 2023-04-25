@@ -8,7 +8,7 @@ meta:
 
 # Get started with Argo Smart Routing
 
-Argo Smart Routing is a one-click solution to speed up your global traffic.
+Argo Smart Routing is a one-click solution to speed up your traffic globally.
 
 {{<tabs labels="Dashboard | API">}}
 {{<tab label="dashboard" no-code="true">}}
