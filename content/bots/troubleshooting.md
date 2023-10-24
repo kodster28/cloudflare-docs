@@ -11,6 +11,7 @@ weight: 11
 
 Cloudflare uses multiple methods to detect bots, but these vary by plan. For more details, refer to [Plans](/bots/plans).
 
+TEST
 ___
 
 ## How do I know what's included in my plan?
